@@ -1,0 +1,7 @@
+[09/10/2025 15:12:49] Pembeli: Rayy_Bonelo | Pesanan: Bubur Pedas x3 ($600)
+Es Teh x4 ($1400)
+ | Total: $2000 | Metode: Cash
+[09/10/2025 15:13:25] PESANAN DITERIMA oleh Rayy_Bonelo -> [09/10/2025 15:12:49] Pembeli: Rayy_Bonelo | Pesanan: Bubur Pedas x3 ($600)
+
+[09/10/2025 15:13:31] PESANAN DITERIMA oleh Rayy_Bonelo -> [09/10/2025 15:13:25] PESANAN DITERIMA oleh Rayy_Bonelo -> [09/10/2025 15:12:49] Pembeli: Rayy_Bonelo | Pesanan: Bubur Pedas x3 ($600)
+
